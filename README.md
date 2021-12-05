@@ -28,7 +28,7 @@ or
 ```bash
  ./dirty my-new-password
  ```
-Afterwards, you can either `su firefart` or `ssh firefart@...`
+Afterwards, you can either `su MSIS4233` or `ssh MSIS4233@...`
 
 **DON'T FORGET TO RESTORE YOUR /etc/passwd AFTER RUNNING THE EXPLOIT!**
 
